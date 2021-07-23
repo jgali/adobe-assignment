@@ -11,4 +11,4 @@ BING	  ZUNE	          1000.0
 
 domain	search_keyword	revenue
 GOOGLE	IPOD	1920.0
-BING	ZUNE	1000.0![image](https://user-images.githubusercontent.com/26849120/126740197-5a37c966-41ba-45d9-963d-20509d166c2a.png)
+BING	ZUNE	1000.0
