@@ -7,7 +7,7 @@ Job Command :
 spark-submit --master yarn --deploy-mode cluster --conf spark.yarn.executor.extraClassPath=./ \
 --driver-memory 5G --executor-memory 5G \
 s3://jgali-adobe-assignment/code/product_rev_by_domain.py \
--src_path s3://jgali-adobe-assignment/input/sample.tsv \
+-src_path s3://jgali-adobe-assignment/input/ \
 -tgt_path s3://jgali-adobe-assignment/output/prod_rev_domain/
 
 """
