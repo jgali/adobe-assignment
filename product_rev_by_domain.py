@@ -71,7 +71,7 @@ class product_revenue_by_domain(object):
     def main(self):
         self.load_data()
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description="input of arguments")
+    parser = argparse.ArgumentParser(description="input  arguments")
     parser.add_argument('-src_path', '--src_path', help="src_path")
     parser.add_argument('-tgt_path', '--tgt_path', help="tgt_path")
     argsv = vars(parser.parse_args())
