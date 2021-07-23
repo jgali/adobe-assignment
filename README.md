@@ -4,11 +4,5 @@
 2) The program works for more than one file.  Sample output 
 
 domain	search_keyword	revenue
-GOOGLE	IPOD	          1920.0
-BING	  ZUNE	          1000.0
-
-
-
-domain	search_keyword	revenue
 GOOGLE	IPOD	1920.0
-BING	ZUNE	1000.0
+BING	ZUNE	1000.0![image](https://user-images.githubusercontent.com/26849120/126740237-35893abe-f3f5-451f-bb94-20b1c1d69033.png)
